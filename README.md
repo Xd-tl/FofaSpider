@@ -29,4 +29,7 @@ Fofa通过页来获取爬取，换言之，你能访问多少页，就能爬取�
 
 ![image](https://user-images.githubusercontent.com/57057346/145269043-0bbee363-18bc-4d6f-8b3d-bc913826d1d4.png)
 
+![image](https://user-images.githubusercontent.com/57057346/145274282-bcea3a2a-9744-4a02-beac-13a5801ee984.png)
+
+
 <br/>最后，希望大佬多多指教，要是能点个Star那就更好了
