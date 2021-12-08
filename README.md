@@ -3,7 +3,7 @@ Fofa通过页来获取爬取，换言之，你能访问多少页，就能爬取�
 
 本脚本基于Python开发，根据查询后得到的数据进行按页爬取，结果以xls格式输出。
 由于中途没执行完查看结果会导致数据加载excel失败，所以我用了两个xls文件，后缀分别为.xls和.xls.bak。
-程序执行中间，可查看.xls文件，当.xls文件查看完毕，可以关闭.xls文件，等一两秒，.xls.bak把数据复制一份给.xls文件，如果再次打开.xls文件和没关闭之前一样，则程序运行完成，无法给.xls文件复制数据，只需要把.xls.bak文件修改为xls即可
+程序执行中间，可查看.xls文件，当.xls文件查看完毕，可以关闭.xls文件，等一两秒，.xls.bak把数据复制一份给.xls文件，如果再次打开.xls文件和没关闭之前一样，则程序运行完成，无法给.xls文件复制数据，只需要把.xls.bak文件修改为xls即可，即使中途断网或者ctrl+c了也没事，后面我断网试了下
 
 ## 免责声明
 
@@ -30,6 +30,8 @@ Fofa通过页来获取爬取，换言之，你能访问多少页，就能爬取�
 ![image](https://user-images.githubusercontent.com/57057346/145269043-0bbee363-18bc-4d6f-8b3d-bc913826d1d4.png)
 
 ![image](https://user-images.githubusercontent.com/57057346/145274282-bcea3a2a-9744-4a02-beac-13a5801ee984.png)
+
+![image](https://user-images.githubusercontent.com/57057346/145275102-022ffb0f-690e-482f-bc7a-1726bef60787.png)
 
 
 <br/>最后，希望大佬多多指教，要是能点个Star那就更好了
