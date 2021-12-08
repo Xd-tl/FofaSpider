@@ -33,5 +33,6 @@ Fofa通过页来获取爬取，换言之，你能访问多少页，就能爬取�
 
 ![image](https://user-images.githubusercontent.com/57057346/145275102-022ffb0f-690e-482f-bc7a-1726bef60787.png)
 
+可以看到断网了，日志加载到了62页，excel也加载到了62页了
 
 <br/>最后，希望大佬多多指教，要是能点个Star那就更好了
