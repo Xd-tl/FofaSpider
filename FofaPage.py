@@ -98,7 +98,7 @@ def get_shengji(str, num):
 
 # 获取某一页数据
 def get(be64, page, filename):
-    url = "https://api.fofa.so/v1/search?qbase64=%s&full=false&pn=%s&ps=10" % (be64.decode(), page)
+    url = "https://api.fofa.info/v1/search?qbase64=%s&full=false&pn=%s&ps=20" % (be64.decode(), page)
     excel_list = []
     f = open('./log/%s.log' % filename, 'a')
     try:
